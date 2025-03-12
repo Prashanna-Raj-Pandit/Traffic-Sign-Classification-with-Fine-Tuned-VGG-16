@@ -34,3 +34,7 @@ After running the script, results are printed to the console and saved as figure
 Validation Accuracy: ~90% (placeholder; depends on run).
 Test Accuracy: ~88% (placeholder; depends on run).
 
+<img width="1232" alt="image" src="https://github.com/user-attachments/assets/b6f89f9f-4af8-47df-b029-e3af0a51fb52" />
+
+<img width="1232" alt="image" src="https://github.com/user-attachments/assets/e10fd712-a788-4be1-a3f0-87c6bd378f78" />
+
